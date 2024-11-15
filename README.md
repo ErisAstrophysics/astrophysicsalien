@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @astrophysicsalien
 - 👀 I’m interested in outer space
 - 🌱 I’m currently learning AP CS Computer Science Principles
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Eris is the Name of one of the Dwarf Planets in the Kuiper Belt
 
 <!---
 astrophysicsalien/astrophysicsalien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
